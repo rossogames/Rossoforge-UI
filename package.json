@@ -1,0 +1,17 @@
+{
+  "name": "com.rossogames.rossoforge-ui",
+  "version": "1.0.0-beta1",
+  "displayName": "Rossoforge-UI",
+  "description": "",
+  "unity": "2025.0",
+  "author": {
+    "name": "Agustin Rosso",
+    "url": "https://www.linkedin.com/in/rossoagustin/"
+  },
+  "keywords": [
+    "rossogames",
+    "rossoforge",
+    "ui",
+    "UI"
+  ]
+}
